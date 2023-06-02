@@ -1,0 +1,10 @@
+.leaflet-container {
+    height: 300px;
+    width: 100%;
+  }
+  
+  .leaflet-marker-icon,
+  .leaflet-marker-shadow {
+    display: none;
+  }
+  

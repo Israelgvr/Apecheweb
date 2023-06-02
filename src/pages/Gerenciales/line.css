@@ -1,0 +1,25 @@
+.download-menu {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+  }
+  
+  .download-menu button {
+    margin-left: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    font-size: 12px;
+    cursor: pointer;
+  }
+  
+  .download-menu button:hover {
+    background-color: #0069d9;
+  }
+  
+  .download-menu i {
+    margin-right: 5px;
+  }
+  

@@ -1,0 +1,11 @@
+.graph-container {
+    width: 45%;
+    height: 400px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
